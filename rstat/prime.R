@@ -13,7 +13,7 @@ prime<-function(n)
 			if(x==2 | x==3) y=TRUE
 		}
 		y
-	}
+	} 
 	x<-c()
 	for (i in 2:n)
 	{
